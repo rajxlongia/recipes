@@ -1,0 +1,8 @@
+Ingredients
+-Cereal
+-Milk
+
+Directions
+1.Pour Cereal into Bowl
+2.Pour Milk into Bowl
+3.Enjoy!
